@@ -1,1 +1,1 @@
-select  * from psdb.employees;
+SELECT  * FROM psdb.employees;
