@@ -1,1 +1,1 @@
-SELECT * FROM psdb.employees LIMIT 0, 100;
+SELECT * FROM psdb.employees LIMIT 100;
