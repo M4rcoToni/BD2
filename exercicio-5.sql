@@ -1,1 +1,0 @@
-SELECT DISTINCT first_name FROM psdb.employees ORDER BY first_name DESC;
