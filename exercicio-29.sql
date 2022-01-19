@@ -1,1 +1,0 @@
-SELECT * FROM psdb.employees WHERE emp_no BETWEEN '14037' AND '14047';
